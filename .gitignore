@@ -1,1 +1,6 @@
 test2.txt.txt
+/Esempio1/packages
+/Esempio1/**/bin
+/Esempio1/**/obj
+/Esempio1/**/*.user
+/Esempio1/.vs
