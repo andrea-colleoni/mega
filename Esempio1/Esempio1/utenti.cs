@@ -9,6 +9,7 @@ namespace Esempio1
     [Table("utenti")]
     public partial class utenti
     {
+        // fixato il bug
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int id { get; set; }
 
